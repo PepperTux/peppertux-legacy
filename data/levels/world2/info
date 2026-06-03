@@ -1,7 +1,6 @@
 (supertux-world
-  (title (_ "Forest World"))
-  (description "An attempt at the Forest world planned for Milestone 3")
+  (title (_ "Forest Island"))
+  (description "The second world of PepperTux.")
   (hide-from-contribs #f)
   (levelset #f)
-  (contrib-type "official")
 )
